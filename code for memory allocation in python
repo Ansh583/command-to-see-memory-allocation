@@ -1,0 +1,5 @@
+#Variable
+a=10
+b=10
+#command to see memory allocation
+print(id(a),id(b))
